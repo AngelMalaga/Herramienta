@@ -2,7 +2,7 @@
 
 MusicHammer-Herramienta
 
-Es un programa para la edicion de niveles del juego MusicRush  el cual nos permite editar las pistas musicales, cargando una cancion y generando una linea de tiempo a partir de esta, para posteriormente escojer una secccion de la cancion donde se quiere 
+Es un programa para la edicion de niveles del juego MusicRush  el cual nos permite editar las pistas musicales, cargando una cancion y generando una linea de tiempo a partir de esta, para posteriormente escoger una secccion de la cancion donde se quiere 
 trabajar. 
 
 
