@@ -34,7 +34,7 @@ Data.add(new Shape(1,2,3,4,5));
 ```java
 "SongName": "Viva_la_vida", // Nombre de la cancion
   "Length": 60, // Duracion de la cancion
-  "basckground":[100,111,111,], //Color del fondo
+  "background":[100,111,111,], //Color del fondo
   "Level": [
     {
       "Shape": 1,// Tipo de objeto
